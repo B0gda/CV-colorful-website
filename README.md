@@ -1,4 +1,4 @@
-# TaVolga
+# Tavolga
 
 Tavolga is a website for special use for specific purposes of one company.
 
